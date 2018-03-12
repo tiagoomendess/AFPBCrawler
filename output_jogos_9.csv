@@ -1,0 +1,110 @@
+1;2017-11-19 15:00:00;Aborim;4;Milhazes;0
+1;2017-11-19 15:00:00;Macieira;3;Remelhe;0
+1;2017-11-19 14:30:00;ÁGUIAS DO NEIVA;2;GD Creixomil;1
+1;2017-11-19 15:00:00;LEOES B.S. ESTEVÃO;5;MIDÕES;4
+1;2017-11-19 15:00:00;Necessidades;2;Paradela;2
+2;2017-11-26 15:00:00;Remelhe;0;Aborim;0
+2;2017-11-26 15:00:00;MIDÕES;2;Macieira;2
+2;2017-11-26 15:00:00;GD Creixomil;0;LEOES B.S. ESTEVÃO;4
+2;2017-11-26 15:00:00;Paradela;2;ÁGUIAS DO NEIVA;1
+2;2017-11-26 16:00:00;Necessidades;1;Carapeços;2
+3;2017-12-03 15:00:00;Milhazes;0;Remelhe;2
+3;2017-12-03 15:00:00;Aborim;2;MIDÕES;0
+3;2017-12-03 15:00:00;Macieira;4;GD Creixomil;1
+3;2017-12-03 15:00:00;LEOES B.S. ESTEVÃO;6;Paradela;3
+3;2017-12-03 15:00:00;ÁGUIAS DO NEIVA;0;Carapeços;3
+4;2017-12-10 15:00:00;MIDÕES;3;Milhazes;0
+4;2017-12-10 15:00:00;GD Creixomil;2;Aborim;2
+4;2017-12-10 15:00:00;Paradela;3;Macieira;0
+4;2017-12-10 15:00:00;Necessidades;3;ÁGUIAS DO NEIVA;1
+4;2017-12-30 11:00:00;Carapeços;8;LEOES B.S. ESTEVÃO;3
+5;2017-12-08 10:30:00;LEOES B.S. ESTEVÃO;5;Necessidades;2
+5;2017-12-17 15:00:00;Milhazes;2;GD Creixomil;1
+5;2017-12-17 15:00:00;Aborim;5;Paradela;1
+5;2017-12-17 15:00:00;Macieira;0;Carapeços;3
+5;2017-12-23 10:30:00;Remelhe;1;MIDÕES;2
+6;2018-01-07 15:00:00;GD Creixomil;1;Remelhe;2
+6;2018-01-07 15:00:00;Paradela;2;Milhazes;1
+6;2018-01-07 15:00:00;Carapeços;5;Aborim;3
+6;2018-01-07 15:00:00;Necessidades;4;Macieira;3
+6;2018-01-07 14:30:00;ÁGUIAS DO NEIVA;2;LEOES B.S. ESTEVÃO;1
+7;2018-01-14 14:30:00;MIDÕES;4;GD Creixomil;1
+7;2018-01-14 15:00:00;Remelhe;2;Paradela;1
+7;2018-01-14 15:00:00;Milhazes;2;Carapeços;5
+7;2018-01-14 15:00:00;Aborim;0;Necessidades;0
+7;2018-01-14 15:00:00;Macieira;3;ÁGUIAS DO NEIVA;2
+8;2018-01-21 15:00:00;Paradela;1;MIDÕES;6
+8;2018-01-21 15:00:00;Carapeços;10;Remelhe;2
+8;2018-01-21 15:00:00;Necessidades;4;Milhazes;3
+8;2018-01-21 15:00:00;ÁGUIAS DO NEIVA;0;Aborim;4
+8;2018-01-21 15:00:00;LEOES B.S. ESTEVÃO;1;Macieira;1
+9;2018-01-28 15:00:00;GD Creixomil;4;Paradela;0
+9;2018-01-28 14:30:00;MIDÕES;0;Carapeços;2
+9;2018-01-28 15:00:00;Remelhe;1;Necessidades;3
+9;2018-01-28 15:00:00;Milhazes;1;ÁGUIAS DO NEIVA;1
+9;2018-01-28 15:00:00;Aborim;1;LEOES B.S. ESTEVÃO;1
+10;2018-02-04 14:30:00;Carapeços;14;GD Creixomil;1
+10;2018-02-04 15:00:00;Necessidades;1;MIDÕES;2
+10;2018-02-04 14:30:00;ÁGUIAS DO NEIVA;2;Remelhe;1
+10;2018-02-04 15:00:00;LEOES B.S. ESTEVÃO;8;Milhazes;1
+10;2018-02-04 15:00:00;Macieira;0;Aborim;1
+11;2018-02-18 14:30:00;Paradela;2;Carapeços;1
+11;2018-02-18 15:00:00;GD Creixomil;2;Necessidades;4
+11;2018-02-18 14:30:00;MIDÕES;1;ÁGUIAS DO NEIVA;0
+11;2018-02-18 15:00:00;Remelhe;2;LEOES B.S. ESTEVÃO;5
+11;2018-02-18 15:00:00;Milhazes;2;Macieira;4
+12;2018-02-25 15:00:00;Milhazes;0;Aborim;2
+12;2018-02-25 15:00:00;Remelhe;2;Macieira;4
+12;2018-02-25 15:00:00;MIDÕES;2;LEOES B.S. ESTEVÃO;4
+12;2018-02-25 15:00:00;GD Creixomil;0;ÁGUIAS DO NEIVA;2
+12;2018-02-25 15:00:00;Paradela;0;Necessidades;1
+13;2018-03-04 15:00:00;Aborim;4;Remelhe;0
+13;2018-03-04 15:00:00;Macieira;2;MIDÕES;4
+13;2018-03-04 15:00:00;LEOES B.S. ESTEVÃO;7;GD Creixomil;0
+13;2018-03-04 15:00:00;ÁGUIAS DO NEIVA;null;Paradela;null
+13;2018-03-04 15:00:00;Necessidades;0;Carapeços;8
+14;2018-03-11 15:00:00;Remelhe;3;Milhazes;1
+14;2018-03-11 15:00:00;MIDÕES;null;Aborim;null
+14;2018-03-11 15:00:00;GD Creixomil;3;Macieira;2
+14;2018-03-11 14:30:00;Paradela;1;LEOES B.S. ESTEVÃO;5
+14;2018-03-11 15:00:00;Carapeços;null;ÁGUIAS DO NEIVA;null
+15;2018-03-18 15:00:00;Milhazes;null;MIDÕES;null
+15;2018-03-18 15:00:00;Aborim;null;GD Creixomil;null
+15;2018-03-18 15:00:00;Macieira;null;Paradela;null
+15;2018-03-18 15:00:00;LEOES B.S. ESTEVÃO;null;Carapeços;null
+15;2018-03-18 14:30:00;ÁGUIAS DO NEIVA;null;Necessidades;null
+16;2018-03-25 15:00:00;MIDÕES;null;Remelhe;null
+16;2018-03-25 15:00:00;GD Creixomil;null;Milhazes;null
+16;2018-03-25 15:00:00;Paradela;null;Aborim;null
+16;2018-03-25 15:00:00;Carapeços;null;Macieira;null
+16;2018-03-25 15:00:00;Necessidades;null;LEOES B.S. ESTEVÃO;null
+17;2018-04-08 15:00:00;Remelhe;null;GD Creixomil;null
+17;2018-04-08 15:00:00;Milhazes;null;Paradela;null
+17;2018-04-08 15:00:00;Aborim;null;Carapeços;null
+17;2018-04-08 15:00:00;Macieira;null;Necessidades;null
+17;2018-04-08 15:00:00;LEOES B.S. ESTEVÃO;null;ÁGUIAS DO NEIVA;null
+18;2018-04-15 15:00:00;GD Creixomil;null;MIDÕES;null
+18;2018-04-15 15:00:00;Paradela;null;Remelhe;null
+18;2018-04-15 15:00:00;Carapeços;null;Milhazes;null
+18;2018-04-15 15:00:00;Necessidades;null;Aborim;null
+18;2018-04-15 14:30:00;ÁGUIAS DO NEIVA;null;Macieira;null
+19;2018-04-22 14:30:00;MIDÕES;null;Paradela;null
+19;2018-04-22 14:30:00;Remelhe;null;Carapeços;null
+19;2018-04-22 15:00:00;Milhazes;null;Necessidades;null
+19;2018-04-22 15:00:00;Aborim;null;ÁGUIAS DO NEIVA;null
+19;2018-04-22 15:00:00;Macieira;null;LEOES B.S. ESTEVÃO;null
+20;2018-04-29 15:00:00;Paradela;null;GD Creixomil;null
+20;2018-04-29 15:00:00;Carapeços;null;MIDÕES;null
+20;2018-04-29 15:00:00;Necessidades;null;Remelhe;null
+20;2018-04-29 14:30:00;ÁGUIAS DO NEIVA;null;Milhazes;null
+20;2018-04-29 15:00:00;LEOES B.S. ESTEVÃO;null;Aborim;null
+21;2018-05-06 15:00:00;GD Creixomil;null;Carapeços;null
+21;2018-05-06 14:30:00;MIDÕES;null;Necessidades;null
+21;2018-05-06 14:30:00;Remelhe;null;ÁGUIAS DO NEIVA;null
+21;2018-05-06 15:00:00;Milhazes;null;LEOES B.S. ESTEVÃO;null
+21;2018-05-06 15:00:00;Aborim;null;Macieira;null
+22;2018-05-13 15:00:00;Carapeços;null;Paradela;null
+22;2018-05-13 15:00:00;Necessidades;null;GD Creixomil;null
+22;2018-05-13 15:00:00;ÁGUIAS DO NEIVA;null;MIDÕES;null
+22;2018-05-13 15:00:00;LEOES B.S. ESTEVÃO;null;Remelhe;null
+22;2018-05-13 15:00:00;Macieira;null;Milhazes;null
