@@ -2,7 +2,7 @@ var request     = require('request');
 var cheerio     = require('cheerio');
 var fs          = require('fs');
 
-var link = "http://www.afpbarcelos.pt/jogos/9";
+var link = "http://www.afpbarcelos.pt/jogos/2";
 
 console.log("Starting BOT...");
 
